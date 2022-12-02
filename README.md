@@ -18,7 +18,7 @@ A simple ReactJS movie app using **TMDB API**
 
 ### Home
 
-![Movies Home!](/public/images/Home.png "Movies Home")
+![Movies Home!](/public/images/home.png "Movies Home")
 
 ### Details
 
