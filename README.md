@@ -1,3 +1,33 @@
+# React Movie App
+
+A simple ReactJS movie app using **TMDB API**
+
+## Tech Stack
+
+- React.js
+- Next.js
+- Typescript
+- Tailwindcss
+
+## Features
+
+- Search Movies
+- Get Popular Movies
+- Get Now Showing Movies
+- Get Movie Details
+
+### Home
+
+![Movies Home!](/public/images/Home.png "Movies Home")
+
+### Details
+
+![Movies Details!](/public/images/details.png "Movies Details")
+
+### Search
+
+![Movie Search!](/public/images/search.png "Movie Search")
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
